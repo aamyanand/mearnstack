@@ -1,0 +1,12 @@
+h1{
+    color: aqua;
+}
+body{
+    background-color: rgb(32, 161, 236);
+}
+div{
+    background-color: rgb(23, 106, 161);
+    height: 300px;
+    width: 800px;
+    border: rgb(47, 5, 102) 2px solid;
+}

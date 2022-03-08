@@ -1,0 +1,24 @@
+.row{
+    width: 100%;
+    height: 599px;
+    background-color: black;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.col{
+    width: 304px;
+    height: 562px;
+}
+.col-1{
+    background-color: plum;
+}
+.col-2{
+    background-color: purple;
+}
+.col-3{
+    background-color: violet;
+}

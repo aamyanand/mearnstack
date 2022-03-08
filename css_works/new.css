@@ -1,0 +1,29 @@
+div{
+    height: 300px;
+    width: 200px;
+}
+#d1{
+    background-color: rgb(35, 46, 46); width: 100px; height: 150px;
+    margin-top: 100px;
+}
+#d2{
+    background-color: rgba(15, 66, 68, 0.527); width: 100px; height: 150px;
+    margin-left: 200px;
+    margin-top: 0px;
+
+}
+#d3{
+    background-color: rgba(255, 0, 55, 0.527); width: 100px; height: 150px;
+    margin-left: 400px;
+    margin-top: -100px;
+}
+#d4{
+    background-color: rgba(255, 0, 55, 0.527); width: 100px; height: 150px;
+    margin-left: 600px;
+    margin-top: -200px;
+}
+#d5{
+    background-color: rgba(255, 0, 55, 0.527); width: 100px; height: 150px;
+    margin-left: 800px;
+    margin-top: -300px;
+}
